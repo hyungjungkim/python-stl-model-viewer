@@ -1,8 +1,8 @@
 # STL model(*.stl) viewer  
 
-##A python-based simple STL model viewer  
+## A python-based simple STL model viewer  
 
-###Key functions (planned):
+### Key functions (planned):
 - Loading ASCII file format
 - Loading binary file format
 - Visualizing a model in 3D
